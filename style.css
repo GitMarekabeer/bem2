@@ -1,0 +1,19 @@
+body {
+	display:flex;
+}
+
+.card {
+	margin: 25px;
+	max-width: 300px;
+	padding: 25px;
+	box-shadow: 0x 10px 30px -10px #rgba(0,0,0,.45);
+	background: red;
+}
+
+.card--light{
+	background: #eee;
+}
+
+.card--dark{
+	background: white;
+}
